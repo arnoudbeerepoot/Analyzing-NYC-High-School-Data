@@ -1,0 +1,5 @@
+pandas==0.22.0
+numpy==1.14.0
+re
+matplotlib==2.0.2
+basemap==1.1.0
