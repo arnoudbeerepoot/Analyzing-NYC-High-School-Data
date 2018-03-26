@@ -6,10 +6,8 @@ and other field are analyzed to find interesting correlations.
 
 # Installation
 
-## Download the data
-
-	 - Clone this repo to your computer
+### Download the data
+- Clone this repo to your computer
 	 
-# Install the requirements
-
-	 - Install the requirements using: pip install -r requirements.txt
+### Install the requirements
+- Install the requirements using: pip install -r requirements.txt
